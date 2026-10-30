@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a psychology student minoring in neuroscience and computer science.
+Hi! I'm a Masters student in Bioinformatics. I obtained my Bachelor from the University of San Francisco in the field of Psychology with minors in Neuroscience and Computer Science.
 
 My interests lie in bioinformatics, neuroscience, and clinical research. My experience in education and public policy along with my technical expertise have prepared me to identify problems & solutions that most affect our population.
 
